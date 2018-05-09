@@ -1,0 +1,23 @@
+[2018-05-07 14:07:11] [INFO] 加载驱动
+[2018-05-07 14:07:16] [INFO] 打开的网址为：https://www.jd.com
+[2018-05-07 14:07:17] [ERROR] not found specifed Element
+[2018-05-07 14:13:52] [INFO] 加载驱动
+[2018-05-07 14:14:01] [INFO] 打开的网址为：https://www.jd.com
+[2018-05-07 14:14:01] [ERROR] not found specifed Element
+[2018-05-07 14:20:32] [INFO] 加载驱动
+[2018-05-07 14:20:38] [INFO] 打开的网址为：https://www.jd.com
+[2018-05-07 14:20:38] [ERROR] not found specifed Element
+[2018-05-07 19:04:27] [INFO] 加载驱动
+[2018-05-07 19:04:33] [INFO] 打开的网址为：https://www.jd.com
+[2018-05-07 19:04:33] [ERROR] not found specifed Element
+[2018-05-07 19:06:45] [INFO] 加载驱动
+[2018-05-07 19:06:51] [INFO] 打开的网址为：https://www.jd.com
+[2018-05-07 19:06:51] [INFO] 查找到相应元素: partial link text: 请
+[2018-05-07 19:06:56] [INFO] 对元素： partial link text: 请做点击操作
+[2018-05-07 19:06:56] [INFO] 查找到相应元素: xpath: //*[@id="content"]/div[2]/div[1]/div/div[3]/a
+[2018-05-07 19:06:57] [INFO] 查找到相应元素: xpath: //*[@id="content"]/div[2]/div[1]/div/div[5]/div/div[2]/div[1]
+[2018-05-07 19:09:33] [INFO] 加载驱动
+[2018-05-07 19:09:39] [INFO] 打开的网址为：https://www.jd.com
+[2018-05-07 19:09:39] [INFO] 查找到相应元素: partial link text: 请
+[2018-05-07 19:09:44] [INFO] 对元素： partial link text: 请做点击操作
+[2018-05-07 19:09:44] [INFO] 查找到相应元素: xpath: //*[@id="loginsubmit"]

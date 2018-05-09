@@ -1,0 +1,16 @@
+[2018-05-07 19:03:47] [INFO] 加载驱动
+[2018-05-07 19:03:52] [INFO] 打开的网址为：https://www.jd.com
+[2018-05-07 19:03:52] [INFO] 查找到相应元素: class name: link-login
+[2018-05-07 19:04:00] [INFO] 对元素： class name: link-login做点击操作
+[2018-05-07 19:04:00] [INFO] 查找到相应元素: xpath: //*[@id="content"]/div[2]/div[1]/div/div[3]/a
+[2018-05-07 19:04:00] [INFO] 对元素： xpath: //*[@id="content"]/div[2]/div[1]/div/div[3]/a做点击操作
+[2018-05-07 19:04:01] [INFO] 查找到相应元素: xpath: //*[@id="loginname"]
+[2018-05-07 19:04:01] [INFO] 查找到相应元素: xpath: //*[@id="loginname"]
+[2018-05-07 19:04:01] [INFO] 清空元素： xpath: //*[@id="loginname"]上的内容
+[2018-05-07 19:04:01] [INFO] 在元素 xpath: //*[@id="loginname"]上输入内容：15735046520
+[2018-05-07 19:04:01] [INFO] 查找到相应元素: xpath: //*[@id="nloginpwd"]
+[2018-05-07 19:04:01] [INFO] 查找到相应元素: xpath: //*[@id="nloginpwd"]
+[2018-05-07 19:04:01] [INFO] 清空元素： xpath: //*[@id="nloginpwd"]上的内容
+[2018-05-07 19:04:02] [INFO] 在元素 xpath: //*[@id="nloginpwd"]上输入内容：cz5211314**
+[2018-05-07 19:04:02] [INFO] 查找到相应元素: id: loginsubmit
+[2018-05-07 19:04:02] [INFO] 对元素： id: loginsubmit做点击操作

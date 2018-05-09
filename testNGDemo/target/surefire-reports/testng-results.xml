@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="32" started-at="2018-05-02T06:56:51Z" finished-at="2018-05-02T06:56:51Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="32" started-at="2018-05-02T06:56:51Z" finished-at="2018-05-02T06:56:51Z">
+      <class name="AbsTest">
+        <test-method status="PASS" signature="testAbs()[pri:0, instance:AbsTest@3cd1aa70]" name="testAbs" duration-ms="8" started-at="2018-05-02T14:56:51Z" finished-at="2018-05-02T14:56:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAbs -->
+        <test-method status="PASS" signature="testAbs1()[pri:0, instance:AbsTest@3cd1aa70]" name="testAbs1" duration-ms="0" started-at="2018-05-02T14:56:51Z" finished-at="2018-05-02T14:56:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAbs1 -->
+        <test-method status="PASS" signature="testAbs2()[pri:0, instance:AbsTest@3cd1aa70]" name="testAbs2" duration-ms="0" started-at="2018-05-02T14:56:51Z" finished-at="2018-05-02T14:56:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAbs2 -->
+      </class> <!-- AbsTest -->
+      <class name="WhiteTest">
+        <test-method status="PASS" signature="testWhiteTest()[pri:0, instance:WhiteTest@690cbe41]" name="testWhiteTest" duration-ms="1" started-at="2018-05-02T14:56:51Z" finished-at="2018-05-02T14:56:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWhiteTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:WhiteTest@690cbe41]" name="setUp" is-config="true" duration-ms="0" started-at="2018-05-02T14:56:51Z" finished-at="2018-05-02T14:56:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:WhiteTest@690cbe41]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-05-02T14:56:51Z" finished-at="2018-05-02T14:56:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="testWhiteTest1()[pri:0, instance:WhiteTest@690cbe41]" name="testWhiteTest1" duration-ms="0" started-at="2018-05-02T14:56:51Z" finished-at="2018-05-02T14:56:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWhiteTest1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:WhiteTest@690cbe41]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-05-02T14:56:51Z" finished-at="2018-05-02T14:56:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:WhiteTest@690cbe41]" name="setUp" is-config="true" duration-ms="0" started-at="2018-05-02T14:56:51Z" finished-at="2018-05-02T14:56:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testWhiteTest2()[pri:0, instance:WhiteTest@690cbe41]" name="testWhiteTest2" duration-ms="0" started-at="2018-05-02T14:56:51Z" finished-at="2018-05-02T14:56:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWhiteTest2 -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:WhiteTest@690cbe41]" name="setUp" is-config="true" duration-ms="0" started-at="2018-05-02T14:56:51Z" finished-at="2018-05-02T14:56:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:WhiteTest@690cbe41]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-05-02T14:56:51Z" finished-at="2018-05-02T14:56:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:WhiteTest@690cbe41]" name="tearDown" is-config="true" duration-ms="1" started-at="2018-05-02T14:56:51Z" finished-at="2018-05-02T14:56:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="testWhiteTest3()[pri:0, instance:WhiteTest@690cbe41]" name="testWhiteTest3" duration-ms="0" started-at="2018-05-02T14:56:51Z" finished-at="2018-05-02T14:56:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWhiteTest3 -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:WhiteTest@690cbe41]" name="setUp" is-config="true" duration-ms="0" started-at="2018-05-02T14:56:51Z" finished-at="2018-05-02T14:56:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+      </class> <!-- WhiteTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

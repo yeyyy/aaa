@@ -1,0 +1,15 @@
+[2018-05-07 11:19:05] [INFO] 加载驱动
+[2018-05-07 11:19:10] [INFO] 打开的网址为：https://www.jd.com
+[2018-05-07 11:19:10] [INFO] 查找到相应元素: class name: link-login
+[2018-05-07 11:19:14] [INFO] 对元素： class name: link-login做点击操作
+[2018-05-07 11:19:14] [INFO] 查找到相应元素: xpath: //*[@id="content"]/div[2]/div[1]/div/div[3]/a
+[2018-05-07 11:19:15] [INFO] 对元素： xpath: //*[@id="content"]/div[2]/div[1]/div/div[3]/a做点击操作
+[2018-05-07 11:19:15] [INFO] 查找到相应元素: xpath: //*[@id="loginname"]
+[2018-05-07 11:19:15] [INFO] 查找到相应元素: xpath: //*[@id="loginname"]
+[2018-05-07 11:19:15] [INFO] 清空元素： xpath: //*[@id="loginname"]上的内容
+[2018-05-07 11:19:15] [INFO] 在元素 xpath: //*[@id="loginname"]上输入内容：15735046520
+[2018-05-07 11:19:15] [INFO] 查找到相应元素: xpath: //*[@id="nloginpwd"]
+[2018-05-07 11:19:16] [INFO] 查找到相应元素: xpath: //*[@id="nloginpwd"]
+[2018-05-07 11:19:16] [INFO] 清空元素： xpath: //*[@id="nloginpwd"]上的内容
+[2018-05-07 11:19:16] [INFO] 在元素 xpath: //*[@id="nloginpwd"]上输入内容：cz5211314**
+[2018-05-07 11:19:16] [ERROR] not found specifed Element

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="62" started-at="2018-05-02T08:13:50Z" finished-at="2018-05-02T08:13:50Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="62" started-at="2018-05-02T08:13:50Z" finished-at="2018-05-02T08:13:50Z">
+      <class name="AbsTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:AbsTest@5282140]" name="setUp" is-config="true" duration-ms="14" started-at="2018-05-02T16:13:50Z" finished-at="2018-05-02T16:13:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testAbs()[pri:0, instance:AbsTest@5282140]" name="testAbs" duration-ms="6" started-at="2018-05-02T16:13:50Z" finished-at="2018-05-02T16:13:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAbs -->
+        <test-method status="PASS" signature="testAbs1()[pri:0, instance:AbsTest@5282140]" name="testAbs1" duration-ms="1" started-at="2018-05-02T16:13:50Z" finished-at="2018-05-02T16:13:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAbs1 -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:AbsTest@5282140]" name="setUp" is-config="true" duration-ms="0" started-at="2018-05-02T16:13:50Z" finished-at="2018-05-02T16:13:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testAbs2()[pri:0, instance:AbsTest@5282140]" name="testAbs2" duration-ms="1" started-at="2018-05-02T16:13:50Z" finished-at="2018-05-02T16:13:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAbs2 -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:AbsTest@5282140]" name="setUp" is-config="true" duration-ms="0" started-at="2018-05-02T16:13:50Z" finished-at="2018-05-02T16:13:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+      </class> <!-- AbsTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
